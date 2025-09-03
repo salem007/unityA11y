@@ -9,7 +9,7 @@ In the Unity Editor, open the Package Manager window (Window > Package Manager).
 
 Click the + button in the top-left corner and select "Add package from git URL...".
 
-Paste the URL of the UnityA11y repository (e.g., https://github.com/yourusername/UnityA11y.git) and click Add.
+Paste the URL of the UnityA11y repository (e.g., https://github.com/salem007/UnityA11y.git) and click Add.
 
 Unity will download and import the package into your project's Packages folder.
 
